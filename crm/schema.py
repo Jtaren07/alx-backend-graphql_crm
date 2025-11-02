@@ -1,5 +1,6 @@
 import graphene
 from .models import Product
+from crm.models import Product
 
 class ProductType(graphene.ObjectType):
     name = graphene.String()
