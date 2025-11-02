@@ -54,3 +54,4 @@ if __name__ == "__main__":
     update_low_stock_products()
     
     print(f"Check logs in /tmp/crm_heartbeat_log.txt and /tmp/low_stock_updates_log.txt")
+
